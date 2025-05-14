@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Onaifo Etinosa Favour</h1>
-<h3 align="center">A passionate frontend developer from Nigeria India</h3>
+<h3 align="center">A passionate frontend developer from Nigeria</h3>
 
 - 🌱 I’m currently learning **flask,react,django**
 
